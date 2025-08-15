@@ -55,7 +55,7 @@ const skillItem = [
     desc: "Programming Language",
   },
   {
-    imgSrc: "/images/c ++svg.svg",
+    imgSrc: "/images/cpp.svg",
     label: "C++",
     desc: "Programming Language",
   },
