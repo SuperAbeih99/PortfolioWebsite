@@ -1,5 +1,4 @@
 /**
- * @copyright 2024 codewithsadee
  * @license Apache-2.0
  */
 
@@ -241,3 +240,4 @@ const Contact = () => {
 };
 
 export default Contact;
+
